@@ -1,5 +1,5 @@
 import Link from "next/link";
-import styles from "./Header.module.css"; // Додайте стилі за потреби
+import styles from "./Header.module.css";
 
 const Header = () => {
     return (
