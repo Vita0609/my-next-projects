@@ -1,0 +1,10 @@
+.header {
+    background-color: #f8f9fa;
+    padding: 10px;
+}
+
+.header nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #0070f3;
+}
