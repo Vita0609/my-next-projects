@@ -4,7 +4,7 @@ const Home = () => {
     return (
         <div>
             <Header />
-            <h1>Welcome to the SSR Next.js App</h1>
+            <h1>Welcome to the SSR</h1>
         </div>
     );
 };
